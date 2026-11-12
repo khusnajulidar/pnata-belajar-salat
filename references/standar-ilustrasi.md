@@ -11,10 +11,11 @@
 - Karakter anak laki-laki menggunakan gamis/thobe panjang yang sopan dan menutup aurat.
 - Jangan menambahkan detail wajah yang melanggar ketentuan tersebut.
 
-## Logo
-- Tempatkan file logo asli di kiri atas sebagai aset terpisah.
-- Jangan pernah meminta generator menggambar ulang logo atau menghasilkan logo yang mirip.
-- Jangan mengubah warna, bentuk, atau komposisi ikon.
+## Ikon dan watermark
+- Jangan menambahkan ikon/logo P'Nata atau watermark apa pun pada gambar hasil generator.
+- Jangan membuat logo tiruan atau mengganti ikon dengan teks.
+- Pengguna akan menambahkan watermark sendiri secara manual setelah semua gambar final selesai.
+- Jika aset logo asli disimpan di repository, fungsinya hanya sebagai arsip; jangan otomatis menempelkannya ke halaman.
 
 ## Tata letak dan keluaran
 - A4 portrait; target raster terdahulu 1055 × 1491 px.
@@ -23,4 +24,4 @@
 - Jangan menambah label nomor halaman jika tidak disetujui.
 
 ## Pemeriksaan akhir
-Periksa ejaan Indonesia, teks Arab/harakat, ketepatan ilustrasi gerakan, margin, resolusi, konsistensi visual, dan integritas logo asli.
+Periksa ejaan Indonesia, teks Arab/harakat, ketepatan ilustrasi gerakan, margin, resolusi, konsistensi visual, dan pastikan tidak ada ikon/logo/watermark.
